@@ -9,6 +9,7 @@ sites:
     url: https://playfield.dev/
   - name: NEEO
     url: https://neeo.com/
+    icon: https://pbs.twimg.com/profile_images/813753397258190850/Vnct1I0A_400x400.jpg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
