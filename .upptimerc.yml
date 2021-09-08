@@ -7,6 +7,8 @@ sites:
     url: https://www.concealed-art.com/
   - name: Playfield.dev
     url: https://playfield.dev/
+  - name: Update Server
+    url: http://update.revox.de
   - name: NEEO
     url: https://neeo.com/
     icon: https://pbs.twimg.com/profile_images/813753397258190850/Vnct1I0A_400x400.jpg
