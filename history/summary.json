@@ -40,18 +40,20 @@
     "url": "http://update.revox.de",
     "icon": "https://favicons.githubusercontent.com/update.revox.de",
     "slug": "update-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 376,
-    "timeWeek": 446,
-    "timeMonth": 470,
-    "timeYear": 465,
-    "dailyMinutesDown": {}
+    "time": 741,
+    "timeDay": 5802,
+    "timeWeek": 1794,
+    "timeMonth": 817,
+    "timeYear": 741,
+    "dailyMinutesDown": {
+      "2021-10-14": 0
+    }
   },
   {
     "name": "NEEO",
