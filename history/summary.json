@@ -4,7 +4,7 @@
     "url": "https://www.concealed-art.com/",
     "icon": "https://favicons.githubusercontent.com/www.concealed-art.com",
     "slug": "concealed-art",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 323,
     "timeMonth": 343,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-11": 0
+    }
   },
   {
     "name": "Playfield.dev",
