@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.concealed-art.com",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "29.79%",
+    "uptime": "29.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.40%",
+    "uptimeYear": "28.19%",
     "time": 283,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-09-15": 58,
+      "2022-09-15": 1129,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -286,9 +286,9 @@
     "url": "https://playfield.dev/",
     "icon": "https://favicons.githubusercontent.com/playfield.dev",
     "slug": "playfield-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -297,7 +297,9 @@
     "timeWeek": 202,
     "timeMonth": 241,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Update Server",
@@ -327,7 +329,7 @@
     "icon": "https://pbs.twimg.com/profile_images/813753397258190850/Vnct1I0A_400x400.jpg",
     "slug": "neeo",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
