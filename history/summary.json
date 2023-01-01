@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "23.14%",
+    "uptime": "23.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 253,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2022-12-31": 38,
+      "2023-01-01": 45,
+      "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
@@ -379,8 +380,7 @@
       "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
-      "2022-01-02": 1440,
-      "2022-01-01": 1440
+      "2022-01-02": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 239,
-    "timeDay": 124,
-    "timeWeek": 273,
-    "timeMonth": 236,
-    "timeYear": 240,
+    "timeDay": 354,
+    "timeWeek": 259,
+    "timeMonth": 242,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-09-15": 31
     }
@@ -409,16 +409,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/update.revox.de.ico",
     "slug": "update-server",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 535,
-    "timeDay": 395,
+    "timeDay": 655,
     "timeWeek": 519,
-    "timeMonth": 492,
-    "timeYear": 503,
+    "timeMonth": 496,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2022-12-26": 24,
       "2022-09-07": 21,
@@ -437,10 +437,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 309,
-    "timeDay": 190,
-    "timeWeek": 433,
-    "timeMonth": 489,
-    "timeYear": 319,
+    "timeDay": 697,
+    "timeWeek": 464,
+    "timeMonth": 495,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2022-10-31": 161,
       "2022-10-30": 0,
