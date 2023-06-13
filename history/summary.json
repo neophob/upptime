@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "17.26%",
+    "uptime": "17.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-12": 545,
+      "2023-06-13": 5,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -379,8 +380,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1440,
-      "2022-06-13": 1440
+      "2022-06-14": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 261,
-    "timeDay": 347,
-    "timeWeek": 329,
-    "timeMonth": 346,
-    "timeYear": 272,
+    "time": 262,
+    "timeDay": 550,
+    "timeWeek": 352,
+    "timeMonth": 359,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2022-09-15": 31
     }
@@ -414,18 +414,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 524,
-    "timeDay": 696,
-    "timeWeek": 552,
-    "timeMonth": 549,
-    "timeYear": 545,
+    "time": 525,
+    "timeDay": 663,
+    "timeWeek": 573,
+    "timeMonth": 557,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2023-03-30": 18,
       "2023-03-21": 21,
       "2023-01-25": 34,
       "2022-12-26": 24,
-      "2022-09-07": 21,
-      "2022-06-13": 20
+      "2022-09-07": 21
     }
   },
   {
@@ -434,15 +433,15 @@
     "icon": "https://pbs.twimg.com/profile_images/813753397258190850/Vnct1I0A_400x400.jpg",
     "slug": "neeo",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "98.09%",
-    "uptimeWeek": "99.26%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.93%",
     "time": 353,
-    "timeDay": 336,
-    "timeWeek": 406,
-    "timeMonth": 387,
+    "timeDay": 350,
+    "timeWeek": 355,
+    "timeMonth": 389,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2023-06-12": 28,
