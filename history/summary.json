@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-19": 5,
+      "2024-02-19": 365,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -406,9 +406,9 @@
     "url": "http://update.revox.de",
     "icon": "https://icons.duckduckgo.com/ip3/update.revox.de.ico",
     "slug": "update-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -418,6 +418,7 @@
     "timeMonth": 496,
     "timeYear": 554,
     "dailyMinutesDown": {
+      "2024-02-19": 0,
       "2023-07-16": 17,
       "2023-03-30": 18,
       "2023-03-21": 21
