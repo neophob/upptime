@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "11.62%",
+    "uptime": "11.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-19": 5,
+      "2024-04-20": 5,
+      "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
@@ -379,8 +380,7 @@
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
-      "2023-04-22": 1440,
-      "2023-04-21": 1440
+      "2023-04-22": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 317,
-    "timeWeek": 336,
-    "timeMonth": 262,
+    "timeDay": 325,
+    "timeWeek": 360,
+    "timeMonth": 260,
     "timeYear": 263,
     "dailyMinutesDown": {}
   },
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 419,
-    "timeWeek": 497,
-    "timeMonth": 493,
-    "timeYear": 551,
+    "timeDay": 669,
+    "timeWeek": 524,
+    "timeMonth": 498,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2023-07-16": 17
     }
@@ -428,15 +428,15 @@
     "slug": "neeo",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "93.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.89%",
     "time": 485,
-    "timeDay": 276,
-    "timeWeek": 366,
-    "timeMonth": 339,
-    "timeYear": 506,
+    "timeDay": 602,
+    "timeWeek": 402,
+    "timeMonth": 347,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2024-04-18": 87,
       "2024-02-13": 55,
