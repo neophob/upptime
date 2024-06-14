@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "10.98%",
+    "uptime": "10.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-14": 5,
+      "2024-06-14": 413,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -406,9 +406,9 @@
     "url": "http://update.revox.de",
     "icon": "https://icons.duckduckgo.com/ip3/update.revox.de.ico",
     "slug": "update-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -418,6 +418,7 @@
     "timeMonth": 472,
     "timeYear": 534,
     "dailyMinutesDown": {
+      "2024-06-14": 0,
       "2024-05-02": 18,
       "2023-07-16": 17
     }
