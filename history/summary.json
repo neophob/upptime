@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-14": 421,
+      "2024-06-15": 5,
+      "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -379,8 +380,7 @@
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
-      "2023-06-17": 1440,
-      "2023-06-16": 1440
+      "2023-06-17": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 174,
-    "timeWeek": 239,
-    "timeMonth": 245,
+    "timeDay": 195,
+    "timeWeek": 247,
+    "timeMonth": 242,
     "timeYear": 258,
     "dailyMinutesDown": {}
   },
@@ -407,18 +407,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/update.revox.de.ico",
     "slug": "update-server",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 538,
-    "timeDay": 371,
-    "timeWeek": 446,
-    "timeMonth": 469,
+    "time": 539,
+    "timeDay": 437,
+    "timeWeek": 461,
+    "timeMonth": 472,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-06-14": 8,
       "2024-05-02": 18,
       "2023-07-16": 17
     }
@@ -435,9 +434,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 482,
-    "timeDay": 448,
-    "timeWeek": 699,
-    "timeMonth": 404,
+    "timeDay": 231,
+    "timeWeek": 679,
+    "timeMonth": 401,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2024-05-21": 22,
