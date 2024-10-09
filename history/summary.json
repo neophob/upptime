@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 623,
+      "2024-10-09": 6,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -379,8 +380,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 407,
-    "timeWeek": 220,
+    "timeDay": 141,
+    "timeWeek": 202,
     "timeMonth": 166,
-    "timeYear": 246,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   },
   {
@@ -414,8 +414,8 @@
     "uptimeYear": "100.00%",
     "time": 525,
     "timeDay": 571,
-    "timeWeek": 474,
-    "timeMonth": 497,
+    "timeWeek": 489,
+    "timeMonth": 502,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2024-05-02": 18
@@ -428,17 +428,16 @@
     "slug": "neeo",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 549,
-    "timeDay": 385,
-    "timeWeek": 379,
-    "timeMonth": 1018,
+    "timeDay": 283,
+    "timeWeek": 362,
+    "timeMonth": 1015,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2024-10-08": 14,
       "2024-06-21": 47,
       "2024-05-21": 22,
       "2024-04-18": 87,
