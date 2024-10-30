@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "9.67%",
+    "uptime": "9.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-29": 7,
+      "2024-10-30": 6,
+      "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -379,8 +380,7 @@
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
-      "2023-11-01": 1440,
-      "2023-10-31": 1440
+      "2023-11-01": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 146,
-    "timeWeek": 197,
-    "timeMonth": 187,
+    "timeDay": 229,
+    "timeWeek": 189,
+    "timeMonth": 190,
     "timeYear": 241,
     "dailyMinutesDown": {}
   },
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 387,
-    "timeWeek": 536,
-    "timeMonth": 525,
+    "timeDay": 619,
+    "timeWeek": 541,
+    "timeMonth": 529,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2024-05-02": 18
@@ -427,15 +427,15 @@
     "icon": "https://pbs.twimg.com/profile_images/813753397258190850/Vnct1I0A_400x400.jpg",
     "slug": "neeo",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 550,
-    "timeDay": 335,
-    "timeWeek": 378,
-    "timeMonth": 419,
+    "time": 551,
+    "timeDay": 605,
+    "timeWeek": 421,
+    "timeMonth": 426,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2024-06-21": 47,
