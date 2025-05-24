@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-24": 7,
+      "2025-05-24": 356,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -388,9 +388,9 @@
     "url": "https://playfield.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/playfield.dev.ico",
     "slug": "playfield-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -399,7 +399,9 @@
     "timeWeek": 163,
     "timeMonth": 169,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 0
+    }
   },
   {
     "name": "Update Server",
