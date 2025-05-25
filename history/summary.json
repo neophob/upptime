@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "8.19%",
+    "uptime": "8.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-24": 368,
+      "2025-05-25": 8,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -379,8 +380,7 @@
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
-      "2024-05-26": 1440,
-      "2024-05-25": 1440
+      "2024-05-26": 1440
     }
   },
   {
@@ -390,18 +390,16 @@
     "slug": "playfield-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 2267,
-    "timeWeek": 693,
-    "timeMonth": 306,
+    "timeDay": 2254,
+    "timeWeek": 671,
+    "timeMonth": 304,
     "timeYear": 228,
-    "dailyMinutesDown": {
-      "2025-05-24": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Update Server",
@@ -414,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 551,
-    "timeDay": 376,
-    "timeWeek": 444,
-    "timeMonth": 512,
-    "timeYear": 572,
+    "time": 552,
+    "timeDay": 776,
+    "timeWeek": 475,
+    "timeMonth": 521,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2025-04-30": 15,
       "2025-03-19": 17
@@ -436,10 +434,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 522,
-    "timeDay": 407,
-    "timeWeek": 2102,
-    "timeMonth": 960,
-    "timeYear": 554,
+    "timeDay": 396,
+    "timeWeek": 2087,
+    "timeMonth": 957,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2025-01-24": 49,
       "2025-01-15": 72,
