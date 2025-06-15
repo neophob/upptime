@@ -1,7 +1,7 @@
 url: http://update.revox.de
-status: down
-code: 502
-responseTime: 5098
-lastUpdated: 2025-06-15T19:20:37.415Z
+status: up
+code: 200
+responseTime: 401
+lastUpdated: 2025-06-15T19:29:06.852Z
 startTime: 2021-09-08T16:01:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
