@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-18": 7,
+      "2025-06-18": 238,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -428,9 +428,9 @@
     "url": "https://neeo.com/",
     "icon": "https://pbs.twimg.com/profile_images/813753397258190850/Vnct1I0A_400x400.jpg",
     "slug": "neeo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -438,8 +438,9 @@
     "timeDay": 434,
     "timeWeek": 433,
     "timeMonth": 913,
-    "timeYear": 557,
+    "timeYear": 534,
     "dailyMinutesDown": {
+      "2025-06-18": 0,
       "2025-01-24": 49,
       "2025-01-15": 72,
       "2024-06-21": 47
