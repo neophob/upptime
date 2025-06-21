@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "8.03%",
+    "uptime": "8.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-20": 318,
+      "2025-06-21": 7,
+      "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -379,8 +380,7 @@
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
-      "2024-06-22": 1440,
-      "2024-06-21": 1440
+      "2024-06-22": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 180,
-    "timeWeek": 172,
-    "timeMonth": 417,
+    "timeDay": 118,
+    "timeWeek": 181,
+    "timeMonth": 418,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -408,17 +408,16 @@
     "slug": "update-server",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 564,
-    "timeDay": 605,
-    "timeWeek": 982,
-    "timeMonth": 653,
-    "timeYear": 588,
+    "time": 565,
+    "timeDay": 565,
+    "timeWeek": 1002,
+    "timeMonth": 660,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-06-20": 12,
       "2025-06-13": 16,
       "2025-04-30": 15,
       "2025-03-19": 17
@@ -436,15 +435,14 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 516,
-    "timeDay": 1031,
-    "timeWeek": 563,
-    "timeMonth": 930,
+    "timeDay": 561,
+    "timeWeek": 586,
+    "timeMonth": 935,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2025-06-18": 17,
       "2025-01-24": 49,
-      "2025-01-15": 72,
-      "2024-06-21": 47
+      "2025-01-15": 72
     }
   }
 ]
