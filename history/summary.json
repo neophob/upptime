@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 1002,
+      "2025-08-26": 7,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -379,8 +380,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   },
   {
@@ -390,18 +390,16 @@
     "slug": "playfield-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 381,
-    "timeWeek": 208,
-    "timeMonth": 204,
-    "timeYear": 214,
-    "dailyMinutesDown": {
-      "2025-08-25": 15
-    }
+    "time": 232,
+    "timeDay": 346,
+    "timeWeek": 231,
+    "timeMonth": 205,
+    "timeYear": 215,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Update Server",
@@ -415,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 572,
-    "timeDay": 518,
-    "timeWeek": 520,
-    "timeMonth": 544,
+    "timeDay": 463,
+    "timeWeek": 497,
+    "timeMonth": 547,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-06-13": 16,
@@ -437,10 +435,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 549,
-    "timeDay": 609,
-    "timeWeek": 553,
-    "timeMonth": 504,
-    "timeYear": 568,
+    "timeDay": 528,
+    "timeWeek": 544,
+    "timeMonth": 503,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-07-16": 29,
       "2025-06-18": 17,
