@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "down",
-    "uptime": "7.64%",
+    "uptime": "7.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-30": 7,
+      "2025-08-31": 8,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -379,8 +380,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 354,
-    "timeWeek": 269,
-    "timeMonth": 206,
-    "timeYear": 216,
+    "timeDay": 351,
+    "timeWeek": 297,
+    "timeMonth": 210,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 573,
-    "timeDay": 836,
-    "timeWeek": 548,
-    "timeMonth": 548,
+    "timeDay": 644,
+    "timeWeek": 573,
+    "timeMonth": 554,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-06-13": 16,
@@ -430,15 +430,15 @@
     "slug": "neeo",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 551,
-    "timeDay": 539,
-    "timeWeek": 557,
-    "timeMonth": 502,
-    "timeYear": 571,
+    "timeDay": 672,
+    "timeWeek": 581,
+    "timeMonth": 509,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-08-29": 21,
       "2025-07-16": 29,
