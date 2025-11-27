@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 8,
+      "2025-11-27": 8,
+      "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -379,8 +380,7 @@
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
-      "2024-11-28": 1440,
-      "2024-11-27": 1440
+      "2024-11-28": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 352,
-    "timeWeek": 376,
+    "timeDay": 311,
+    "timeWeek": 329,
     "timeMonth": 317,
-    "timeYear": 227,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 589,
-    "timeDay": 811,
-    "timeWeek": 609,
-    "timeMonth": 599,
+    "timeDay": 455,
+    "timeWeek": 581,
+    "timeMonth": 597,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2025-06-13": 16,
@@ -429,14 +429,14 @@
     "icon": "https://pbs.twimg.com/profile_images/813753397258190850/Vnct1I0A_400x400.jpg",
     "slug": "neeo",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.93%",
-    "time": 551,
-    "timeDay": 444,
-    "timeWeek": 550,
+    "time": 552,
+    "timeDay": 503,
+    "timeWeek": 556,
     "timeMonth": 482,
     "timeYear": 539,
     "dailyMinutesDown": {
