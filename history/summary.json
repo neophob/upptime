@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.concealed-art.com.ico",
     "slug": "concealed-art",
     "status": "up",
-    "uptime": "8.53%",
+    "uptime": "8.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.69%",
-    "time": 595,
-    "timeDay": 793,
-    "timeWeek": 530,
-    "timeMonth": 503,
-    "timeYear": 595,
+    "uptimeYear": "13.96%",
+    "time": 592,
+    "timeDay": 443,
+    "timeWeek": 524,
+    "timeMonth": 500,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2026-09-18": 290,
       "2026-09-17": 1440,
@@ -329,8 +329,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -345,8 +344,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 288,
-    "timeWeek": 249,
+    "timeDay": 263,
+    "timeWeek": 258,
     "timeMonth": 388,
     "timeYear": 275,
     "dailyMinutesDown": {}
@@ -363,9 +362,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 542,
-    "timeDay": 452,
-    "timeWeek": 505,
-    "timeMonth": 517,
+    "timeDay": 496,
+    "timeWeek": 477,
+    "timeMonth": 518,
     "timeYear": 535,
     "dailyMinutesDown": {}
   },
@@ -381,10 +380,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 511,
-    "timeDay": 316,
-    "timeWeek": 541,
-    "timeMonth": 542,
-    "timeYear": 485,
+    "timeDay": 670,
+    "timeWeek": 511,
+    "timeMonth": 553,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2025-11-18": 180,
       "2025-12-05": 21
